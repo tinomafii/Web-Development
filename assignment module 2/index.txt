@@ -1,0 +1,45 @@
+<!Doctype html>
+<html>
+<head>
+<title> HOTEL </title>
+
+<link rel="stylesheet" type="text/css" href="cssfile.css">
+</head>
+
+<body>
+
+<header> <center> <h1>Our Menu </h1> </center> </header>
+<div class="wrapper">
+
+	
+		
+		
+<section class="columns">
+
+<div class="column">
+
+<div id="c"> <h3> Chicken </h3> </div>
+		
+		<p>The reason chicken is always included in a healthy diet is because it is basically a lean meat, which means it doesn't have much fat. So, eating chicken regularly can actually help you lose weight in a healthy way. Apart from protein, chicken is also chock full of calcium and phosphorous.</p>
+	</div>
+	
+	<div class="column">
+<div id="c"><h3>Sushi</h3>  </div>
+		
+		<p>Sushi is a very healthy meal! It's a good source of heart healthy omega-3 fatty acids thanks to the fish it's made with. Sushi is also low in calories – there's no added fat. The most common type is nigiri sushi – fingers of sticky rice topped with a small filet of fish or seafood.</p>
+	</div>
+  
+  <div class="column">
+<div id="c"> <h3>Noodles </h3> </div>
+		
+		<p>While we do think of pasta as a culturally Italian food, it is likely the descendent of ancient Asian noodles. A common belief about pasta is that it was brought to Italy from China by Marco Polo during the 13th century. ... Noodles existed in Asia long before Polo's trip to China.</p>
+	</div>
+	
+</section>	
+	
+	
+
+</div>
+</body>
+
+</html>
